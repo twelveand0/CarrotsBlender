@@ -8,4 +8,4 @@ Bingchang Liu, Guozhu Meng, Wei Zou, Qi Gong, Feng Li, Min Lin, Dandan Sun, Wei 
 
 **THis will be uploaded and documented soon...** 
 
-**Due to the impact of Wuhan Novel coronavirus pneumonia (COVID-19), I cannot get back to laboratory and cannot get access to the data. I will upload them after being allowed to the laboratory.**
+**Due to the impact of Novel coronavirus pneumonia (COVID-19), I cannot get back to laboratory and cannot get access to the data. I will upload them after being allowed to the laboratory.**
